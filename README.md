@@ -8,7 +8,7 @@ console.log('my Name is Ridho Ray Putra')
 ```
 
 <p>
-Hi, My name is Ridho Ray Putra and you can call me Ray. Am a Front-end, UI/UX Deisgner, and am also learning about the monolith backend✌, Im usually using the javascipt languages for the Front-end am using React or NEXT For The Project. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
+Hi, My name is Ridho Ray Putra and you can call me Ray. Am a Front-end, UI/UX Deisgner, and am also learning about the monolith backend✌, Im usually using the javascipt languages for the Front-end, am using React or NEXT For The Project. If you interested to talking to me you can DM me on my Instagram and ask me anything there 😉
 </p>
 
 
