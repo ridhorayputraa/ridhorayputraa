@@ -14,7 +14,7 @@ Hi, My name is Ridho Ray Putra and you can call me Ray. Am a Front-end, UI/UX De
 
   
 
-### 📞 Hit me up!
+### 📞 Contact me!
 
 [![instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ridhoray__/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridho-ray-25aa13236/)
