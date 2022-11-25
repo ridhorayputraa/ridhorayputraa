@@ -12,7 +12,7 @@ Hi, My name is Ridho Ray Putra and you can call me Ray. Am a Front-end, UI/UX De
 </p>
 
 
-  
+  <a href=#><img src="contributions.svg"></a>
 
 ### 📞 Contact me!
 
