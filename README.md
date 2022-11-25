@@ -1,8 +1,6 @@
 # Hi 👋
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC2CF7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71CF2&vCenter=true&width=435&lines=Front-end+%26+UI%2FUX+Designer;Welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 ```javascript
 console.log('my Name is Galih Adhi Kusuma')
@@ -50,4 +48,4 @@ Hi, as you can see up there inside the silly logging. My name is Galih Adhi Kusu
 ## Statistic
 
  
-![Top langugage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noxturnedev&count_private=true&layout=compact&theme=shades-of-purple&&hide=shell,css)
+![Top langugage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhorayputraa&count_private=true&layout=compact&theme=shades-of-purple&&hide=shell,css)
