@@ -13,6 +13,10 @@ Hi, My name is Ridho Ray Putra and you can call me Ray. Am a Front-end, UI/UX De
 
 
   <a href=#><img src="contributions.svg"></a>
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 ### 📞 Contact me!
 
